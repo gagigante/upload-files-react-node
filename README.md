@@ -53,8 +53,8 @@ Learning how to monitor files upload progress
 
 ### Backend
 
-<!-- #### API Reference: 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=NLW%203&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fgagigante%2Fupload-files-react-node%2Fmaster%2Fbackend%2Fdocs%2Fapi-reference.json) -->
+#### API Reference: 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=upload-files-react-node&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fgagigante%2Fupload-files-react-node%2Fmain%2F.github%2Fapi-reference.json)
 
 Access `server` folder and install the dependencies
 ```
