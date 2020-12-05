@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Happy" title="#Happy" src=".github/logo.ico" width="120px" />
+  <img alt="upload-files-react-node" title="#upload-files-react-node" src=".github/logo.ico" width="120px" />
 </h1>
 
 <h4 align="center">
-  Happy
+  Upload Files React Node
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gagigante/upload-files-react-node">
